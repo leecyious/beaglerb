@@ -1,0 +1,9 @@
+# Introduction #
+
+The DualShock 3 Controller is easely configurable under linux. It will be used by the BeagleRB project as the main robot controller.
+
+
+# Details #
+
+How to setup the controller in linux : http://www.pabr.org/sixlinux/sixlinux.en.html
+Support in linux : http://wiki.ps2dev.org/ps3:linux:sixaxis

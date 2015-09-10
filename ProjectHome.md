@@ -1,0 +1,3 @@
+The BeagleRB project (BeagleBoard Robotics Base) is a project aiming to release plans and software and instructions on how to set up a cheap open-source wireless robotics base with a BeaglBoard as core component : it includes the chassis (or frame) construction, the drive control system (motor drivers), the microcontroller source code, and the code running on the beagleboard which coordinates everything.
+
+The basic idea is that the beagleboard will connect via bluetooth to a wireless joystick (e.g. Sony DualShock3) and retrieve info on the buttons, axis, etc via an SDL application or a processing applet. Then, this application or applet will send data to the Microcontroller (Arduino Duemilanove) which will then send PWM signals to the Motor Drivers, moving the motors.
